@@ -17,7 +17,7 @@ Official repository for public documentation published by [Kaskad Protocol](http
 Latest Oracle research paper by Kaskad lead oracle architect Eliott Mea
 This model is currently live on-chain on testnet.kaskad.live
 
-- DRAFT v1.2.0
+- DRAFT v1.2.0 — Arpil 2026
 
 ---
 
