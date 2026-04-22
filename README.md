@@ -11,6 +11,14 @@ Official repository for public documentation published by [Kaskad Protocol](http
 - Version 1.0 — February 2026
 - [Download PDF](./Kaskad%20-%20Whitepaper%20V1.pdf)
 
+## Oracle
+
+**Mathematical Framework for Price Oracles**
+Latest Oracle research paper by Kaskad lead oracle architect Eliott Mea
+This model is currently live on-chain on testnet.kaskad.live
+
+- DRAFT v1.2.0
+
 ---
 
 ## About Kaskad
