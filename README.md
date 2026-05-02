@@ -18,7 +18,7 @@ Official repository for public documentation published by [Kaskad Protocol](http
 **Kaskad's complete custom code external audit, performed by Sherlock
 
 - Audit #1 — April 2026
-- [Download PDF](.
+- [Download PDF](%20Collaborative%20Audit%20Report%201%20by%20Sherlock.pdf)
 
 ## About Kaskad
 
