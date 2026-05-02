@@ -13,6 +13,13 @@ Official repository for public documentation published by [Kaskad Protocol](http
 
 ---
 
+## Audit Report
+
+**Kaskad's complete custom code external audit, performed by Sherlock
+
+- Audit #1 — April 2026
+- [Download PDF](.
+
 ## About Kaskad
 
 Kaskad is a decentralized lending protocol built on Kaspa's Igra L2 network, combining battle-tested lending mechanics with bounded governance, epoch-based rewards, and cross-chain support.
