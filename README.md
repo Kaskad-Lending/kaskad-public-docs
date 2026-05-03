@@ -6,7 +6,7 @@ Official repository for public documentation published by [Kaskad Protocol](http
 
 ## Whitepaper
 
-**Kaskad — A bounded governance Lending Protocol with In-house Oracle Integration for the Kaspa Ecosystem
+**Kaskad — A bounded governance Lending Protocol with In-house Oracle Integration for the Kaspa Ecosystem**
 
 - Version 1.0 — February 2026
 - [Download PDF](./Kaskad%20-%20Whitepaper%20V1.pdf)
@@ -15,7 +15,7 @@ Official repository for public documentation published by [Kaskad Protocol](http
 
 ## Audit Report
 
-**Kaskad's complete custom code external audit, performed by Sherlock
+**Kaskad's complete custom code external audit, performed by Sherlock**
 
 - Audit #1 — April 2026
 - [Download PDF](https://github.com/Kaskad-Lending/kaskad-public-docs/blob/Audits/2026.04.30%20-%20Final%20-%20Kaskad%20Collaborative%20Audit%20Report%201%20by%20Sherlock.pdf)
